@@ -2,7 +2,9 @@
 
 
 $nomeCliente = $_GET["nome"];
-
+$nomeCliente = $_GET["cpf"];
+$nomeCliente = $_GET["telefone"];
+$nomeCliente = $_GET["email"];
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
